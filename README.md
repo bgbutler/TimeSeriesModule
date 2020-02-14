@@ -1,7 +1,7 @@
 # TimeSeriesModule
 Functions to perform SARIMAX time series modeling in Python.
 
-The functions consist of the following:
+The functions consist of the following functions: 
 
 1. adf: testing for Augmented Dickey-Fuller testing for stationarity
 2. durbin_watson_stat: create the Durbin-Watson statistic to evaluate the fit of the model to the series and check the amount of autocorrelation to be removed
